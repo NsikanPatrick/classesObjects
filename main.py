@@ -3,7 +3,7 @@ class Student:
     def __init__(self):
         pass
 
-
+#Instantiate the class
 
 Bob = Student(name="Bob", age=26, tracks=["FE","BE"],score=20.90)
 
