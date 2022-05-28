@@ -9,8 +9,7 @@ class Student:
         return new_name
         
     def change_age(self, new_age):
-        int_age = int(new_age)
-        return int_age
+        return new_age
         
     def add_tracks(self, added_tracks):
         new_tracks = added_tracks
